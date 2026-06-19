@@ -4,8 +4,8 @@
 <img width="195" height="28" alt="изображение" src="https://github.com/user-attachments/assets/821a1fd2-36d5-4583-a47c-986894ad1427" />
 <img width="125" height="28" alt="изображение" src="https://github.com/user-attachments/assets/bef7c7c1-670c-42d7-895a-28ebc1276d55" />
 <img width="301" height="28" alt="изображение" src="https://github.com/user-attachments/assets/8746d0e3-80cc-4b67-a2eb-843f80bf95f6" />
-
-
+<br>
+<br>
 <div align="center">
 Disclaimer
 
