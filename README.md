@@ -69,3 +69,5 @@ English & Russian out of the box. Easily extensible — add your language in min
 
 ![App Screenshot](screenshots/main.png)
 ![App Screenshot](screenshots/main1_2.png)
+![App Screenshot](screenshots/main1_3.png)
+![App Screenshot](screenshots/main1_4.png)
