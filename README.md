@@ -12,14 +12,6 @@ Users are solely responsible for how they use this software.
 	osu!Downloader
 🌸 The most beautiful way to download osu! beatmaps
 
-Fast • Free • Open Source
-
-Python
-PyQt5
-License
-Platform
-<br>
-
     🔍 Search any beatmap → ⬇️ Download in one click → 📂 Auto-install to osu!
 
 <br></div>
