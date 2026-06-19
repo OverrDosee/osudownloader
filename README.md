@@ -1,5 +1,6 @@
 # osudownloader
 
+<div align="center">
 Disclaimer
 
 This project is an unofficial third-party application and is not affiliated with, endorsed by, or supported by osu!.
