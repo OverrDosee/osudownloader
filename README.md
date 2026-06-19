@@ -46,7 +46,7 @@ English & Russian out of the box. Easily extensible — add your language in min
 <br>
 <div align="center">
 ⚡ Feature Highlights
-	
+<br>
 🔍  Smart Search         Filter by stars, mode, status, NSFW
 ⬇️  Fast Downloads       Multiple mirror support for max speed
 📂  Auto-Install         Maps go straight to your Songs folder
