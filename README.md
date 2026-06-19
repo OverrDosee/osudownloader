@@ -37,7 +37,7 @@ Download + auto-install maps directly into your osu! Songs folder. Or launch osu
 
 English & Russian out of the box. Easily extensible — add your language in minutes.
 </td> </tr> </table>
-🎨 Themes
+🎨 Themes/n
 🌸 Default	🌊 Ocean	🌲 Forest	🌅 Sunset	🌙 Midnight
 Pink & Purple	Blue & Cyan	Green & Emerald	Orange & Red	Purple & Magenta
 
