@@ -42,6 +42,7 @@ English & Russian out of the box. Easily extensible — add your language in min
 <div align="center">
 🌸 Default	🌊 Ocean	🌲 Forest	🌅 Sunset	🌙 Midnight
 
+
 <div align="center">
 ⚡ Feature Highlights
 	
