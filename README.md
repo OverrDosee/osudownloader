@@ -42,8 +42,8 @@ English & Russian out of the box. Easily extensible — add your language in min
 <div align="center">
 🌸 Default	🌊 Ocean	🌲 Forest	🌅 Sunset	🌙 Midnight
 
-⚡ Feature Highlights
 
+⚡ Feature Highlights
 🔍  Smart Search         Filter by stars, mode, status, NSFW
 ⬇️  Fast Downloads       Multiple mirror support for max speed
 📂  Auto-Install         Maps go straight to your Songs folder
@@ -56,16 +56,6 @@ English & Russian out of the box. Easily extensible — add your language in min
 🔧  Debug Console        Built-in dev tools (Ctrl+Shift+D)
 🖼️  Image Caching        Instant loading on repeat views
 📐  Responsive Layout    Adapts to any window size
-
-🛠️ Tech Stack
-<div align="center">
-	Technology	Purpose
-🐍	Python 3.8+	Core language
-🖼️	PyQt5	Desktop UI framework
-⚡	asyncio + aiohttp	Non-blocking API & downloads
-🎮	osu! API v2	Beatmap search & player data
-💬	pypresence	Discord Rich Presence
-🎨	Custom QSS	Themed stylesheet engine
 </div>
 
 ![App Screenshot](screenshots/main.png)
