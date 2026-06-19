@@ -8,8 +8,8 @@ This project uses the official osu! API for search and metadata, but beatmap dow
 Availability, legality, and terms of such services may vary depending on region and jurisdiction.
 Users are solely responsible for how they use this software.
 
-🎮 osu! Beatmap Downloader
 <div align="center">
+osu!Downloader
 🌸 The most beautiful way to download osu! beatmaps
 
 Fast • Free • Open Source
