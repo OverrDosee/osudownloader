@@ -19,13 +19,11 @@ Users are solely responsible for how they use this software.
     Discord Rich Presence — Show your current activity in Discord while browsing or downloading maps
     Download History — Track all your downloads with progress bars, status indicators, and timestamps
     Integrated osu! Launcher — Launch osu! directly from the sidebar with auto-detection of your installation
-    Debug Console — Built-in developer console (Ctrl+Shift+D) with logging, export, and clipboard support
     Async Architecture — Non-blocking UI powered by asyncio for smooth performance during API calls and downloads
     Smart Image Caching — Cover art and avatars are cached locally for instant loading on repeat views
     Modern Card-Based Design — Every element lives in its own bordered card with rounded corners, shadows, dividers, and visual separation for clean readability
     Responsive Layout — Profile page adapts between wide and narrow layouts based on window size
     Open Source & Free — No login required for browsing, fully transparent codebase
-
 
 ![App Screenshot](screenshots/main.png)
 ![App Screenshot](screenshots/main1_2.png)
