@@ -1,4 +1,4 @@
-# osudownloader
+# Osu!Downloader
 
 <img width="145" height="28" alt="изображение" src="https://github.com/user-attachments/assets/c76770be-8750-4e5e-9683-052254f67ed7" />
 <img width="195" height="28" alt="изображение" src="https://github.com/user-attachments/assets/821a1fd2-36d5-4583-a47c-986894ad1427" />
