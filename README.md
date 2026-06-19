@@ -45,8 +45,6 @@ Pink & Purple	Blue & Cyan	Green & Emerald	Orange & Red	Purple & Magenta
 
 ⚡ Feature Highlights
 
-text
-
 🔍  Smart Search         Filter by stars, mode, status, NSFW
 ⬇️  Fast Downloads       Multiple mirror support for max speed
 📂  Auto-Install         Maps go straight to your Songs folder
