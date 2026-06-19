@@ -41,9 +41,6 @@ English & Russian out of the box. Easily extensible — add your language in min
 🎨 Themes
 <div align="center">
 🌸 Default	🌊 Ocean	🌲 Forest	🌅 Sunset	🌙 Midnight
-Pink & Purple	Blue & Cyan	Green & Emerald	Orange & Red	Purple & Magenta
-
-    Every theme features card-based UI with rounded borders, accent dividers, inner cards, shadow effects, and smooth hover transitions.
 
 ⚡ Feature Highlights
 
