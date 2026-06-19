@@ -8,22 +8,76 @@ This project uses the official osu! API for search and metadata, but beatmap dow
 Availability, legality, and terms of such services may vary depending on region and jurisdiction.
 Users are solely responsible for how they use this software.
 
-✨ Features
+🎮 osu! Beatmap Downloader
+<div align="center">
+🌸 The most beautiful way to download osu! beatmaps
 
-    Fast Beatmap Search — Search across the entire osu! library with real-time filters for star rating, game mode, ranked status, and NSFW content
-    One-Click Download & Install — Download any beatmap directly or auto-install it into your osu! Songs folder
-    Multiple Download Mirrors — BeatConnect, Catboy, Sayobot, and Chimu mirrors for maximum availability and speed
-    Player Profiles — Browse detailed player statistics including PP, rank history, grade counts, best plays, and most played maps
-    5 Dark Themes — Default, Ocean, Forest, Sunset, and Midnight — all carefully designed with card-based UI, accent borders, and smooth hover effects
-    Multi-Language Support — English and Russian with easy extensibility for additional languages
-    Discord Rich Presence — Show your current activity in Discord while browsing or downloading maps
-    Download History — Track all your downloads with progress bars, status indicators, and timestamps
-    Integrated osu! Launcher — Launch osu! directly from the sidebar with auto-detection of your installation
-    Async Architecture — Non-blocking UI powered by asyncio for smooth performance during API calls and downloads
-    Smart Image Caching — Cover art and avatars are cached locally for instant loading on repeat views
-    Modern Card-Based Design — Every element lives in its own bordered card with rounded corners, shadows, dividers, and visual separation for clean readability
-    Responsive Layout — Profile page adapts between wide and narrow layouts based on window size
-    Open Source & Free — No login required for browsing, fully transparent codebase
+Fast • Free • Open Source
+
+Python
+PyQt5
+License
+Platform
+<br>
+
+    🔍 Search any beatmap → ⬇️ Download in one click → 📂 Auto-install to osu!
+
+<br></div>
+🌟 Why This Downloader?
+<table> <tr> <td width="50%">
+🚀 Lightning Fast
+
+Search across millions of beatmaps with instant results. Async architecture means the UI never freezes — even during heavy downloads.
+🎨 Gorgeous Dark Themes
+
+5 hand-crafted themes with card-based design, glowing accents, smooth hover effects, and pixel-perfect borders. Every pixel matters.
+🔗 Multiple Mirrors
+
+BeatConnect • Catboy • Sayobot • Chimu — if one mirror is down, switch instantly. Maximum speed, zero downtime.
+</td> <td width="50%">
+👤 Player Profiles
+
+Full stat cards with PP, rank history charts, grade breakdowns, best plays, and most played maps — all beautifully rendered.
+📂 One-Click Install
+
+Download + auto-install maps directly into your osu! Songs folder. Or launch osu! right from the sidebar. Zero friction.
+🌍 Multi-Language
+
+English & Russian out of the box. Easily extensible — add your language in minutes.
+</td> </tr> </table>
+🎨 Themes
+🌸 Default	🌊 Ocean	🌲 Forest	🌅 Sunset	🌙 Midnight
+Pink & Purple	Blue & Cyan	Green & Emerald	Orange & Red	Purple & Magenta
+
+    Every theme features card-based UI with rounded borders, accent dividers, inner cards, shadow effects, and smooth hover transitions.
+
+⚡ Feature Highlights
+
+text
+
+🔍  Smart Search         Filter by stars, mode, status, NSFW
+⬇️  Fast Downloads       Multiple mirror support for max speed
+📂  Auto-Install         Maps go straight to your Songs folder
+👤  Player Profiles      PP, ranks, grades, charts, best plays
+🎮  osu! Launcher        Launch osu! directly from the app
+🎨  5 Dark Themes        Gorgeous card-based modern UI
+🌍  Multi-Language       English, Russian + extensible
+💬  Discord RPC          Show activity in your Discord status
+📊  Download History     Track everything with progress bars
+🔧  Debug Console        Built-in dev tools (Ctrl+Shift+D)
+🖼️  Image Caching        Instant loading on repeat views
+📐  Responsive Layout    Adapts to any window size
+
+🛠️ Tech Stack
+<div align="center">
+	Technology	Purpose
+🐍	Python 3.8+	Core language
+🖼️	PyQt5	Desktop UI framework
+⚡	asyncio + aiohttp	Non-blocking API & downloads
+🎮	osu! API v2	Beatmap search & player data
+💬	pypresence	Discord Rich Presence
+🎨	Custom QSS	Themed stylesheet engine
+</div>
 
 ![App Screenshot](screenshots/main.png)
 ![App Screenshot](screenshots/main1_2.png)
