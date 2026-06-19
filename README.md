@@ -9,7 +9,7 @@ Availability, legality, and terms of such services may vary depending on region 
 Users are solely responsible for how they use this software.
 
 <div align="center">
-osu!Downloader
+	osu!Downloader
 🌸 The most beautiful way to download osu! beatmaps
 
 Fast • Free • Open Source
